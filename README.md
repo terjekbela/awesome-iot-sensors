@@ -8,7 +8,7 @@
 |SI1145|[SiLabs](https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf)|uv, ir, visible light|0x60|
 |MLX90614|[Melexis](https://www.melexis.com/en/product/MLX90614/Digital-Plug-Play-Infrared-Thermometer-TO-Can)|infrared temp|0x5a|
 |MLX90615|[Melexis](https://www.melexis.com/en/product/MLX90615/Digital-Plug-Play-Infrared-Thermometer-Ultra-Small-TO-Can)|infrared temp|0x5b|
-|MCP9808|[Microchip](https://ww1.microchip.com/downloads/en/DeviceDoc/25095A.pdf)]|precision temp|0x18|-40C ~ +125C|0.25C|0.0625C|C
+|MCP9808|[Microchip](https://ww1.microchip.com/downloads/en/DeviceDoc/25095A.pdf)|precision temp|0x18|-40C ~ +125C|0.25C|0.0625C|C
 |CCS811|[ScioSense](https://www.sciosense.com/products/environmental-sensors/ccs811-gas-sensor-solution/)|air quality (co)|0x5a, 0x5b
 |BH1750|[Rohm](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/light/bh1721fvc-e.pdf)|light intensity|0x23, 0x5c|0~65000lux|||lux
 
