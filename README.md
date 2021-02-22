@@ -24,6 +24,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 |BME280  |temp, humidity, pressure      |0x76, 0x77   |-40 ~ +85C<br/>0 ~ 100%rH<br/>300 ~ 1100hPa; |1C<br/>3%rH<br/>1hPa|0.01C<br/>0.008%rH<br/>0.18Pa|[BOSCH](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280)|
 |BME680  |temp, humidity, pressure, voc |0x76, 0x77   |            |          |            |BOSCH                                                                                                                 |
 |LSM6DS3 |imu                           |0x60, 0x6a   |            |          |            |[STMicro](https://www.st.com/resource/en/datasheet/lsm6ds3.pdf)
+|LM75A   |temp                          |0x48 ~ 0x4f  |-55C ~ +125C|        2X|        9bit|[TI](https://www.ti.com/lit/ds/symlink/lm75a.pdf)                                                                     |
+|TMP175  |temp                          |             |            |        1C|     0.0625C|                                                                                                                      |
 
 # Possible # IoT sensors for testing
 ------------------------------------------------------------------------
@@ -35,6 +37,7 @@ TSL2591         -           - precision light intensity     -
 TSL2561         -           - precision light intensity     -
 TSYS01          - 
 BMP390          - BOSCH     - precision pressure            - 
+
 
 # Contributing
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new sensor.
