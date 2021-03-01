@@ -27,6 +27,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 |TMP175  |temp                          |             |            |        1C|     0.0625C|                                                                                                                      |
 
 # Possible # IoT sensors for testing
+| Sensor | Type                         | I2C address | Range      | Accuracy | Resolution | Manufacturer                                                                                                         |
+| ------ | ---------------------------- |:-----------:| ---------- | --------:| ---------- | -------------------------------------------------------------------------------------------------------------------- |
 |SI7021  |temp, humidity                |             |            |          |            |[SiLabs](https://www.silabs.com/documents/public/data-sheets/Si7021-A20.pdf)                                          |
 |SI7051  |precision temp                |             |            |          |            |SiLabs                                                                                                                |
 |HDC1080 |temp, humidity                |             |            |          |            |[TI](https://www.ti.com/product/HDC1080)                                                                              |
