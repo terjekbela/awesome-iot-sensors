@@ -39,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 |TSYS01  |                              |             |            |          |            |                                                                                                                      |
 |BMP390  |precision pressure            |             |            |          |            |BOSCH                                                                                                                 |
 |AHT10   |                              |             |            |          |            |                                                                                                                      |
+|SHTC3   |temp, humidity                |0x70         |            |          |            |[Sensirion](https://www.sensirion.com/shtc3)                                                                          |
 
 # Contributing
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new sensor.
